@@ -1,9 +1,10 @@
-﻿using Sort;
+﻿ using Sort;
 
 
-int[] array = { 1, 6, 5, 2, 3, 8, 4 };
+int[] array = { 1, 6, 5, 2, 3, 8, 4,7 };
 
-Sorting.BubbleSort(array);
+//Sorting.BubbleSort(array);
+Sorting.SelectionSort(array);
 
 
 

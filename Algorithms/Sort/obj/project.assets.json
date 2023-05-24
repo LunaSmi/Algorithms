@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lena\\Desktop\\Algorithms\\Sort\\Sort.csproj",
+      "projectUniqueName": "C:\\Users\\Lena\\Documents\\GitHub\\Algorithms\\Algorithms\\Sort\\Sort.csproj",
       "projectName": "Sort",
-      "projectPath": "C:\\Users\\Lena\\Desktop\\Algorithms\\Sort\\Sort.csproj",
+      "projectPath": "C:\\Users\\Lena\\Documents\\GitHub\\Algorithms\\Algorithms\\Sort\\Sort.csproj",
       "packagesPath": "C:\\Users\\Lena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lena\\Desktop\\Algorithms\\Sort\\obj\\",
+      "outputPath": "C:\\Users\\Lena\\Documents\\GitHub\\Algorithms\\Algorithms\\Sort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

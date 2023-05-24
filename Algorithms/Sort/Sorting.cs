@@ -26,26 +26,49 @@ namespace Sort
 
         public static void SelectionSort(int[] array)
         {
-
+            for (int wall = array.Length - 1; wall > 0; wall--)
+            {
+                int largestAt = 0;
+                for (int i = 1; i <= wall; i++)
+                {
+                    if (array[i] > array[largestAt])
+                    {
+                        largestAt = i;
+                    }
+                }
+                Swap(array, largestAt, wall);
+            }
         }
 
         public static void InsertSort(int[] array)
         {
+
+
+
 
         }
 
         public static void ShellSort(int[] array)
         {
 
+
+
+
         }
 
         public static void MergeSort(int[] array)
         {
 
+
+
+
         }
 
         public static void QuickSort(int[] array)
         {
+
+
+
 
         }
 
